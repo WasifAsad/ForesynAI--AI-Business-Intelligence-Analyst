@@ -1,0 +1,22 @@
+# Virtual Environment
+venv1/
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Testing & Coverage
+.coverage
+htmlcov/
+
+# Data & Uploads
+data/*
+!data/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
